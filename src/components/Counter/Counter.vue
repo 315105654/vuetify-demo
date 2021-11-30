@@ -15,7 +15,6 @@
             id: {
                 type: Number,
                 require: true
-
             },
             // 数量
             num: {
