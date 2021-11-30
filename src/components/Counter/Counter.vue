@@ -3,6 +3,7 @@
         <v-icon x-small @click="sub">mdi-minus</v-icon>
         <span class="px-2 font-weight-bold">{{num}}</span>
         <v-icon x-small @click="add">mdi-plus</v-icon>
+
     </div>
 </template>
 
